@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dBmWattCalculator</string>
+    <string name="input_dbm">Input dBms</string>
+    <string name="input_watt">Input Watts</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="convert_dbm">dBm -> Watts</string>
+    <string name="convert_watt">Watts -> dBm</string>
+    <string name="calculate_path_loss">Calculate Path Loss</string>
+    <string name="result">result</string>
+    <string name="two_decimal_places">%.2f</string>
+    <string name="pick_a_converrsion_type_below">Pick a converrsion type below:</string>
+</resources>
